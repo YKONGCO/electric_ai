@@ -1,0 +1,41 @@
+{
+  "self_cognition": {
+    "file_name": "self_cognition.json",
+    "file_sha1":""
+  },
+  "alpaca_data_zh_51k": {
+    "file_name": "alpaca_data_zh_51k.json",
+    "file_sha1":""
+  },
+  "alpaca_gpt4_data_zh": {
+    "file_name": "alpaca_gpt4_data_zh.json",
+    "file_sha1":""
+  },
+  "data": {
+    "file_name": "data.json",
+    "file_sha1":""
+  },
+  "classification": {
+    "file_name": "classification.json",
+    "file_sha1":""
+  },
+  "dataset": {
+    "file_name": "dataset.json",
+    "file_sha1":""
+  },
+  "dataset_sf": {
+    "file_name": "dataset_sf.json",
+    "file_sha1":""
+  },
+  "all": {
+    "file_name": "all.txt",
+    "columns": {
+      "prompt": "text"
+    }
+  },
+  "mix_sf": {
+    "file_name": "mix_sf.json",
+    "file_sha1":""
+  }
+
+}
